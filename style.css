@@ -131,23 +131,22 @@ body {
     .cabecalho {
         padding: 10%;
         justify-content: center;
-        width: auto;
     }
     
     .apresentacao {
-        width: 25rem;
+        width: 20rem;
         font-size: 1.4rem;
         flex-direction: column-reverse;
         padding: 5%;
     }
 
     .apresentacao-conteudo {
-        width: 25rem;
+        width: auto;
     }
 
     .imagem {
-        width: 21.88rem;
-        height: 23.75rem;    
+        width: 15rem;
+        height: 14rem;    
         align-items: center;
         margin-bottom: 1rem;
     }
